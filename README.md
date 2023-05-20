@@ -2,7 +2,8 @@
 ---
 # Kalkulator (Calculator)
 
-![Calculator Main View](<YourImageURL>)
+![Calculator Main View](https://github.com/blaszkaaa/Kalkulator2/assets/58654924/802d7167-daa7-4b10-b4e4-801ec4644dc2)
+
 ![Calculator History View](<YourImageURL>)
 
 ## 🇵🇱 Opis PL
